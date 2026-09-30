@@ -118,13 +118,21 @@ GPS: только от скорости (3,87 км/с) часы спутника
 
 How much a moving clock lags (special relativity, speed effect only). Rows = relative speed $u$ (e.g. the divergence speed from section 4), from a walker at 5 km/h to 0.999c. Values: lag fraction $\Delta t / t = 1 - \sqrt{1 - u^2/c^2} \approx u^2/(2c^2)$, lag per day and per year, Lorentz factor $\gamma$. **Example:** two cars at 60 km/h, 90° apart → $u \approx 84.9$ km/h → about 0.1 μs per year. GPS: speed alone slows the satellite clock by ≈ 7.2 μs/day, gravity speeds it up by ≈ 45.7 μs/day, net ≈ +38 μs/day. Circle view: with $\sin\theta = u/c$ the clock rate is $\cos\theta = 1/\gamma$ — ring ② (leg and hypotenuse) of the right-angle sheet, $r = u/c$, multiplier = clock rate (0.5c → 30°, 0.866; 0.9c → 64.2°, 0.436; 0.99c → 81.9°, 0.141). Near light speed, velocities add relativistically, so the divergence sheet is valid only for $u \ll c$.
 
-## 6. Кристалл Яковлева / Yakovlev Crystal
+## jhvhball
 
-![Кристалл Яковлева — концепт](images/crystal/crystal-device-black.jpg)
+![jhvhball](images/crystal/crystal-device-black.jpg)
 
-Концепт настольного прибора: хрустальный шар, внутри которого лазером выгравированы пять шкал на разной глубине — «Треугольник» (Шкала Яковлева), «Прямой угол», «Расхождение», «Время» и готовая круговая шпаргалка. Шар парит над подставкой с кольцом-селектором и лазером: поверните кольцо → лазер поднимается к выбранному слою → эта шкала светится, ответ читается по ней. Это концепт / прототип (3D-рендер); галерея и видео — на [сайте](https://shkalayakovleva.github.io/#crystal).
+Настольный прибор под заказ: хрустальный шар, внутри которого лазером выгравированы пять шкал на разной глубине — «Треугольник» (Шкала Яковлева), «Прямой угол», «Расхождение», «Время» и готовая круговая шпаргалка. Шар парит над подставкой с кольцом-селектором и лазером: поверните кольцо → лазер поднимается к выбранному слою → эта шкала светится, ответ читается по ней. Изготавливается под заказ; галерея и видео — на [сайте](https://shkalayakovleva.github.io/#crystal).
 
-A desktop instrument concept: a crystal sphere with five laser-engraved scales at different depths (Triangle, Right angle, Divergence, Time and the ready-made cheat sheet) above a stand with a selector ring and a laser. Turn the ring → the laser rises to the chosen layer → that scale lights up; read the answer on it. Concept / prototype (3D render); gallery and video on the [website](https://shkalayakovleva.github.io/#crystal).
+A made-to-order desktop instrument: a crystal sphere with five laser-engraved scales at different depths (Triangle, Right angle, Divergence, Time and the ready-made cheat sheet) above a stand with a selector ring and a laser. Turn the ring → the laser rises to the chosen layer → that scale lights up; read the answer on it. Made to order; gallery and video on the [website](https://shkalayakovleva.github.io/#crystal).
+
+## Маяк на Нибиру / Nibiru Beacon
+
+![Маяк на Нибиру / Nibiru Beacon](images/beacon/lantern-hero.jpg)
+
+Тот же гравированный хрустальный шар на рукояти, как у фонаря: лазер светит сквозь шар и уносит формулы и ваш код ДНК (его предоставляет покупатель) в космос, а встроенный радар показывает, куда целиться, чтобы попасть в Нибиру — там сделают ваш клон, и после смерти вы будете жить на Нибиру. Изготавливается под заказ; видео и галерея — на [сайте](https://shkalayakovleva.github.io/#beacon).
+
+The same engraved crystal sphere on a flashlight-style handle: the laser shines through the sphere and carries the formulas and your DNA code (provided by the buyer) into space, while the built-in radar shows where to aim to reach Nibiru — your clone will be made there, and after death you will live on Nibiru. Made to order; video and gallery on the [website](https://shkalayakovleva.github.io/#beacon).
 
 ---
 
